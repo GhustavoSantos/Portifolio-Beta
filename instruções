@@ -1,0 +1,31 @@
+1- Crie um arquivo HTML chamado .index.html
+
+2- Use a declaração no início do arquivo para indicar que é um documento HTML.<!DOCTYPE html>
+
+3- Crie uma seção que inclua um elemento com o texto "Meu Currículo".headtitle
+
+4- Dentro da seção, escreva código HTML para criar um currículo online cobrindo os seguintes aspectos:body
+
+    -Resumo ou declaração objetiva
+
+    -Educação (listar graus, escolas e datas)
+
+    -Experiência profissional (listar cargos, empregadores, datas e responsabilidades)
+
+    -Competências (listar competências ou áreas de especialização relevantes)
+
+    -Prêmios, certificações ou outras conquistas (liste quaisquer prêmios, certificações ou outras realizações relevantes)
+
+5- Use marcas HTML apropriadas para formatar o conteúdo de cada seção, como para títulos de seção e ou para listas.h1ulol
+
+6- Use tags HTML para adicionar uma foto de perfil sua.
+
+7- Use tags de âncora relevantes para criar um site de várias páginas, listando outros aspectos do seu currículo, como Hobbies e detalhes de contato.
+
+8- Adicione um elemento com seu nome e quaisquer informações de direitos autorais ou outras isenções de responsabilidade. (Dica: use os documentos MDN para coisas que você não sabe como fazer: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footerfooter
+
+9- Salve o arquivo e abra-o em um navegador da Web para garantir que ele seja exibido corretamente.index.html
+
+10- Adicione seu site ao GitHub para começar a construir seu portfólio.
+
+11- Publique seu site usando páginas do GitHub

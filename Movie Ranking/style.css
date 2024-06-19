@@ -1,0 +1,52 @@
+*
+{
+    margin: 0ch;
+    background-color: #333336;
+}
+
+h1
+{
+    background-color: rgba(255, 255, 255, 0);
+}
+
+.header
+{
+    color:black;
+    background-color: #0000cd;
+    font-size: 20px;
+}
+.header h2
+{
+    padding-bottom: 15px;
+}
+
+div
+{
+    background-color: #171718;
+}
+div h3
+{
+    padding-top: 20px;
+    color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+div p
+{
+    color: #e6dce6;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+div img
+{
+    padding-top: 20px;
+    width: 200px;
+    height: auto;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+#contato
+{
+    width: 50px;
+}
